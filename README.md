@@ -1,4 +1,4 @@
-# karibu_client
+# teheca_frontend
 
 ## Project setup
 ```
